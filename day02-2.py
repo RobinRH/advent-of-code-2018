@@ -5,15 +5,11 @@
 import sys
 
 with open(sys.argv[1], 'r') as inputFile:
-    lines = map(lambda s: s.strip(), list(inputFile))
+    lines = [s.strip() for s in list(inputFile)]
 
-def findab():
-    for a in lines:
-        for b in lines:
-            same = sum([a[i] == b[i] for i in range(len(a))])
-            if len(a) - same == 1:
-                return a, b
-
-a, b = findab()
-common = [a[i] for i in range(len(a)) if a[i] == b[i]]
-print ''.join(common)
+for a in lines:
+    for b in lines:
+        common = [a[i] for i in range(len(a)) if a[i] == b[i]]
+        if len(a) - len(common) == 1:
+            print ''.join(common)
+            exit()
