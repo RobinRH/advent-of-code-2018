@@ -5,7 +5,6 @@
 import sys
 
 with open(sys.argv[1], 'r') as inputFile:
-    #numbers = map((lambda x : int(x)), inputFile.readlines())
     numbers = [int(x) for x in inputFile.readlines()]
 
 
