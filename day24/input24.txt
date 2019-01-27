@@ -1,0 +1,20 @@
+immune 1 698 10286 133 fire 9
+immune 2 6846 2773 4 slashing 14 weak-slashing weak-cold 
+immune 3 105 6988 616 radiation 17 weak-bludgeoning immune-radiation 
+immune 4 5615 7914 13 radiation 20 weak-bludgeoning
+immune 5 1021 10433 86 bludgeoning 12 weak-cold immune-slashing immune-bludgeoning
+immune 6 6099 11578 15 bludgeoning 13
+immune 7 82 1930 179 bludgeoning 5 weak-bludgeoning immune-cold
+immune 8 2223 9442 38 cold 19 immune-bludgeoning
+immune 9 140 7594 452 fire 8 weak-radiation
+immune 10 3057 3871 11 radiation 16 weak-bludgeoning
+infection 1 263 48098 293 bludgeoning 2 immune-radiation weak-slashing
+infection 2 111 9893 171 fire 18 immune-slashing
+infection 3 2790 36205 25 cold 4
+infection 4 3325 46479 27 radiation 1 weak-slashing
+infection 5 3593 6461 3 radiation 15 weak-fire weak-slashing
+infection 6 2925 13553 8 cold 10 weak-cold weak-bludgeoning immune-fire
+infection 7 262 43260 327 radiation 6 weak-cold
+infection 8 4228 24924 11 cold 11 weak-radiation weak-fire immune-cold immune-bludgeoning
+infection 9 689 42315 116 fire 7 weak-cold weak-slashing
+infection 10 2649 37977 24 cold 3 weak-radiation
