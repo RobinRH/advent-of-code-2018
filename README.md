@@ -2,7 +2,7 @@
 
 [Advent of Code](http://adventofcode.com) is an annual event of 25 programming puzzles.
 
-My solutions: [2015]() [2016]() [2017]() [2018]()
+My solutions: [2015](https://github.com/RobinRH/advent-of-code-2015) [2016](https://github.com/RobinRH/advent-of-code-2016) [2017](https://github.com/RobinRH/advent-of-code-2017) [2018](https://github.com/RobinRH/advent-of-code-2018)
 
 Day | Description
 ---|---
@@ -12,7 +12,7 @@ Day | Description
 [04](https://github.com/RobinRH/advent-of-code-2018/tree/master/day04) | String parsing, sorting, collections.Counter
 [05](https://github.com/RobinRH/advent-of-code-2018/tree/master/day05) | String manipulation, palindromes
 [06](https://github.com/RobinRH/advent-of-code-2018/tree/master/day06) | 2-D grid analysis, numpy
-[07](https://github.com/RobinRH/advent-of-code-2018/tree/master/day06) | Directed graph
+[07](https://github.com/RobinRH/advent-of-code-2018/tree/master/day07) | Directed graph
 [08](https://github.com/RobinRH/advent-of-code-2018/tree/master/day08) | Recursive descent
 [09](https://github.com/RobinRH/advent-of-code-2018/tree/master/day09) | Doubly-linked circular list
 [10](https://github.com/RobinRH/advent-of-code-2018/tree/master/day10) | 2-D grid manipulation
